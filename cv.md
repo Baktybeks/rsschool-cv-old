@@ -16,6 +16,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 - CSS/SASS
 - JavaScript (Basic)
 - Git
+- Python (Basic)
 
 ## __Code Example__
 ```
