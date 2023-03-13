@@ -30,7 +30,7 @@ function digitize(n) {
 ## __Education__ 
 - __University:__ Kyrgyz State Technical University named after I.Razzakov , specialty Power supply
 - __Courses:__
-  - [FrontEnd developer](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+  - FrontEnd developer
 
 ## __English__
 __A2__
